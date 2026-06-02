@@ -64,9 +64,7 @@ admin.site.register(FoodOrder, FoodOrderAdmin)
 ```
 
 ## OUTPUT
-
-<img width="1317" height="672" alt="image" src="https://github.com/user-attachments/assets/08e67e73-e9c0-467f-a451-4ee21e863230" />
-
+![alt text](output.jpeg)
 
 
 ## RESULT
